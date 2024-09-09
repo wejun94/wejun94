@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Developer
+🚀 Web Developer
+🚀 Sofware Developer
+🚀 Creater Tampletes Notion
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wellington-junior-068814116/" target="_blank">
