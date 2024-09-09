@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#028799&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0258d1&fontColor=0299ad&textBg=false&fontAlign=54"/>
+
+
 
 ## Hi there 👋
 
-🚀 Web Developer <br>
-🚀 Sofware Developer <br>
-🚀 Notion Templates Creator <br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&width=435&lines=I'm+Web+Developer;I'm+Software+Developer;I'm+Notion+Template+Creator" alt="Typing SVG" /></a>
 
 
 
