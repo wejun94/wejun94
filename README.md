@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🚀 Web Developer
-🚀 Sofware Developer
-🚀 Creater Tampletes Notion
+🚀 Web Developer <br>
+🚀 Sofware Developer <br>
+🚀 Creater Tampletes Notion <br>
 
 
 <div align="center">
