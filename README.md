@@ -2,7 +2,7 @@
 
 🚀 Web Developer <br>
 🚀 Sofware Developer <br>
-🚀 Creater Tampletes Notion <br><br>
+🚀 Notion Templates Creator <br><br>
 
 
 
