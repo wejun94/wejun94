@@ -19,15 +19,11 @@
 
 ###
 
-<h3 align="left">👨🏾‍💻  About Me</h3>
+<h3 align="left">👨🏾‍💻  I'm</h3>
 
 ###
 
-<p align="left">I'm ...<br><br>- 🔭 Web Developer...<br>- 📚 Python/Django Developer ...<br>- ⚡  Learning Golang ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">- 🔭 Web Developer...<br>- 📚 Python/Django Developer ...<br>- ⚡  Learning Golang ...</p>
 
 ###
 
@@ -55,6 +51,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wejun94/wejun94/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wejun94/wejun94/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wejun94/wejun94/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wejun94/wejun94/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
