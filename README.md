@@ -1,162 +1,164 @@
 <div align="center">
-👋 Hi, I'm Wellington Júnior
 
-Python / Django Developer · Backend-Focused Full Stack Developer
+# Wellington Júnior
 
-📍 Dallas, TX
+### Python / Django Developer · Backend-Focused Full Stack Developer
 
-<a href="https://wellingtonjr.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+Dallas, TX
+
+<a href="https://wellingtonjr.com">
+  <img
+    src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
-<a href="https://www.linkedin.com/in/wellington-júnior-wejun" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/wellington-júnior-wejun">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
-<a href="https://github.com/wejun94" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
 </div>
 
+---
 
-<h3>👨🏾‍💻 About Me</h3>
+## About
 
-I'm a Python / Django Developer focused on building reliable backend systems, REST APIs, relational database solutions, and maintainable web applications.
+I'm a **Python / Django Developer** focused on backend development, REST APIs,
+relational databases, and maintainable web applications.
 
-My main stack is Python, Django, Django REST Framework, and PostgreSQL, with additional experience in frontend development, automated testing, Docker, CI/CD, and AI-assisted development workflows.
+My core stack is **Python, Django, Django REST Framework, and PostgreSQL**,
+with additional experience in React, Next.js, TypeScript, Docker,
+automated testing, CI/CD, and AI-assisted development.
 
-I enjoy turning business requirements and manual processes into clear, maintainable software solutions.
+I enjoy turning business requirements and manual workflows into
+clear, reliable software solutions.
 
-<ul>
-  <li>🐍 Backend development with Python, Django, DRF & PostgreSQL</li>
-  
-  <li>🔌 Building and integrating REST APIs</li>
-  
-  <li>🧪 Focused on testing, code quality and maintainability</li>
-  
-  <li>🐳 Working with Docker, GitHub Actions and CI/CD</li>
-  
-  <li>⚛️ Frontend experience with React, Next.js, TypeScript & Tailwind CSS</li>
-  
-  <li>🤖 Exploring AI-assisted development, LLM workflows and multi-agent systems</li>
-  
-  <li>⚡ Currently improving my Go skills</li>
-</ul>
-<br>
+---
 
-<h3>🧰 Core Stack</h3>
+## Core Stack
 
-<b>Backend:</b><br>
-Python · Django · Django REST Framework · PostgreSQL · SQL · Redis · Celery · Go
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python · Django · Django REST Framework · PostgreSQL · SQL · Redis · Celery</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · TypeScript · JavaScript · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Docker · Git · GitHub Actions · CI/CD</td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>Pytest · Playwright · Jest · Vitest</td>
+  </tr>
+  <tr>
+    <td><strong>AI</strong></td>
+    <td>LLM APIs · Multi-Agent Workflows · Prompt Engineering · Guardrails</td>
+  </tr>
+  <tr>
+    <td><strong>Currently exploring</strong></td>
+    <td>Go · Cloud Architecture · System Design</td>
+  </tr>
+</table>
 
-<b>Frontend:</b><br>
-React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+---
 
-<b>DevOps, Testing & Quality:</b><br>
-Docker · Git · GitHub · GitHub Actions · CI/CD · Pytest · Playwright · Jest · Vitest
-<br>
+## Selected Work
 
+### Python / Django REST API
 
-<h3>🚀 Featured Work</h3>
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `Docker` · `Pytest`
 
-Most of my current development work is maintained in private repositories.My public GitHub contribution graph can include anonymized activity from those repositories, while project details and source code remain private.
+Backend-focused application designed around maintainable REST APIs
+and relational data modeling.
 
-<b>1. Python / Django REST API</b><br>
-Python · Django · Django REST Framework · PostgreSQL · Docker · Pytest
-<ul>
-  <li>REST API architecture</li>
-  
-  <li>Authentication and authorization</li>
-  
-  <li>Relational database modeling</li>
-  
-  <li>Automated testing</li>
-  
-  <li>Dockerized development environment</li>
-  
-  <li>CI/CD workflow
-</ul>
+**Engineering highlights**
 
-🔗 Case Study: ADD-LINK-HERE
-<br>
+- REST API architecture
+- Authentication and authorization
+- PostgreSQL data modeling
+- Business rules and validation
+- Automated testing
+- Dockerized development environment
+- CI/CD
 
+**Case Study →** `Coming soon`
 
-<b>2. Full Stack Web Application</b><br>
-Django · PostgreSQL · React / Next.js · TypeScript
-<ul>
-  <li>Backend services and API design</li>
-  
-  <li>Business rules and data modeling</li>
-  
-  <li>Frontend integration with REST APIs</li>
-  
-  <li>Authentication and application workflows</li>
-  
-  <li>Testing and maintainability practices</li>
-</ul>
-🔗 Case Study: ADD-LINK-HERE
-<br>
+---
 
-<b>3. AI / LLM Development</b><br>
+### Full Stack Web Application
 
-Python · LLM APIs · Multi-Agent Workflows · Prompt Engineering
+`Django` · `PostgreSQL` · `Next.js` · `React` · `TypeScript`
 
-<ul>
-  <li>Multi-step AI workflows</li>
-  
-  <li>Structured prompts and tool integrations</li>
-  
-  <li>Validation and guardrails</li>
-  
-  <li>Backend integration</li>
-  
-  <li>Testing and reproducibility practices</li>
-</ul>
-🔗 Case Study: ADD-LINK-HERE
-<br>
+Full-stack application combining a Django backend with a modern
+frontend architecture.
 
+**Engineering highlights**
 
-<h3>🔒 Private Development</h3>
+- Backend services and API design
+- Domain and database modeling
+- REST API integrations
+- Authentication workflows
+- Responsive frontend development
+- Automated testing
 
-A significant part of my development activity takes place in private repositories.
+**Case Study →** `Coming soon`
 
-I keep production and personal product source code private when necessary, while using this profile to share:
-<ul>
-  <li>representative code samples;</li>
-  
-  <li>architecture case studies;</li>
-  
-  <li>technical documentation;</li>
-  
-  <li>selected public projects;</li>
-  
-  <li>GitHub contribution activity.</li>
-</ul>
-This allows recruiters and engineering teams to evaluate my technical direction, consistency and engineering practices without exposing private source code.
-<br>
+---
 
+### AI / LLM Development
 
-<h3>🎯 Current Focus</h3>
-<ul>
-  <li>Strengthening advanced Python & Django development</li>
-  
-  <li>Building production-style REST APIs</li>
-  
-  <li>Improving System Design fundamentals</li>
-  
-  <li>Expanding knowledge of cloud deployment</li>
-  
-  <li>Developing deeper experience with Go</li>
-  
-  <li>Building practical AI / LLM integrations</li>
-</ul>
-🤝 Let's Connect
+`Python` · `LLM APIs` · `Multi-Agent Workflows` · `Prompt Engineering`
+
+Experiments and application workflows involving AI-assisted
+development and LLM integrations.
+
+**Engineering highlights**
+
+- Multi-step AI workflows
+- Structured prompting
+- Tool integrations
+- Output validation
+- Safety guardrails
+- Testing and reproducibility
+
+**Case Study →** `Coming soon`
+
+---
+
+## Private Development
+
+Most of my current product development is maintained in private repositories.
+
+My GitHub contribution activity can include anonymized contributions from
+private repositories, while source code and project details remain private.
+
+Public repositories and case studies are used to demonstrate selected
+architecture decisions, engineering practices, and representative code.
+
+---
+
+## Current Focus
+
+`Advanced Django` · `REST API Design` · `System Design` · `Cloud` · `Go` · `AI / LLM Integration`
+
+---
 
 <div align="center">
 
-<a href="https://wellingtonjr.com" target="_blank">
-  <img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+### Let's build something useful.
+
+<a href="https://wellingtonjr.com">
+  <strong>Portfolio</strong>
 </a>
-<a href="https://www.linkedin.com/in/wellington-júnior-wejun" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/wellington-júnior-wejun">
+  <strong>LinkedIn</strong>
 </a>
 
 </div>
